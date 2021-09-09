@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">285768258775-gkgcu981q7g5bkboo35sonlifooip588.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">285768258775</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyVCWH3a_JriqftM0tWwg9vB5gDdN0nIg</string>
+    <string name="google_app_id" translatable="false">1:285768258775:android:f32ab352f48e29d51e4c92</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAyVCWH3a_JriqftM0tWwg9vB5gDdN0nIg</string>
+    <string name="google_storage_bucket" translatable="false">ardent-live-class-flutter.appspot.com</string>
+    <string name="project_id" translatable="false">ardent-live-class-flutter</string>
+</resources>
